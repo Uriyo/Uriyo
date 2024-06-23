@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Kushagra Gangwar is a skilled Full-Stack Developer and an AWS Certified Cloud Practitioner with a strong technical background in web development and cloud services. Currently interning at DevOpSpatial, he is proficient in a range of technologies, including JavaScript, ReactJS, and NodeJS. Kushagra has developed several impactful projects such as Eatsy, CoinTracker, and BuzzChat, showcasing his ability to deliver scalable and efficient solutions. He was a finalist at the Smart India Hackathon 2022, underscoring his innovative capabilities in technology.
+<br>I am a skilled Full-Stack Developer and an AWS Certified Cloud Practitioner with a strong technical background in web development and cloud services. Currently interning at DevOpSpatial,  I am proficient in a range of technologies, including JavaScript, ReactJS, and NodeJS. I have developed several impactful projects such as Eatsy, CoinTracker, and BuzzChat, showcasing his ability to deliver scalable and efficient solutions. He was a finalist at the Smart India Hackathon 2022, underscoring his innovative capabilities in technology.
 
 
 ## 🌐 Socials:
